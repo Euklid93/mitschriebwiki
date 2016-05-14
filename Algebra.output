@@ -1,0 +1,919 @@
+
+Running /usr/bin/pdflatex Algebra.tex in an env with 4 entries:
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian)
+entering extended mode
+(data/Algebra.tex
+LaTeX2e <2009/09/24>
+Babel <v3.8l> and hyphenation patterns for english, usenglishmax, dumylang, noh
+yphenation, farsi, arabic, croatian, bulgarian, ukrainian, russian, czech, slov
+ak, danish, dutch, finnish, french, basque, ngerman, german, german-x-2009-06-1
+9, ngerman-x-2009-06-19, ibycus, monogreek, greek, ancientgreek, hungarian, san
+skrit, italian, latin, latvian, lithuanian, mongolian2a, mongolian, bokmal, nyn
+orsk, romanian, irish, coptic, serbian, turkish, welsh, esperanto, uppersorbian
+, estonian, indonesian, interlingua, icelandic, kurmanji, slovenian, polish, po
+rtuguese, spanish, galician, catalan, swedish, ukenglish, loaded.
+(/usr/share/texmf-texlive/tex/latex/base/book.cls
+Document Class: book 2007/10/19 v1.4h Standard LaTeX document class
+(/usr/share/texmf-texlive/tex/latex/base/bk12.clo))
+(/usr/share/texmf-texlive/tex/latex/amsfonts/amssymb.sty
+(/usr/share/texmf-texlive/tex/latex/amsfonts/amsfonts.sty))
+(/usr/share/texmf-texlive/tex/latex/base/inputenc.sty
+(/usr/share/texmf-texlive/tex/latex/base/latin9.def))
+(/usr/share/texmf-texlive/tex/latex/base/fontenc.sty
+(/usr/share/texmf-texlive/tex/latex/base/t1enc.def))
+(/usr/share/texmf-texlive/tex/generic/babel/babel.sty
+(/usr/share/texmf-texlive/tex/generic/babel/english.ldf
+(/usr/share/texmf-texlive/tex/generic/babel/babel.def)))
+(/usr/share/texmf-texlive/tex/latex/geometry/geometry.sty
+(/usr/share/texmf-texlive/tex/latex/graphics/keyval.sty)
+(/usr/share/texmf-texlive/tex/generic/oberdiek/ifpdf.sty)
+(/usr/share/texmf-texlive/tex/generic/oberdiek/ifvtex.sty)
+(/usr/share/texmf-texlive/tex/xelatex/xetexconfig/geometry.cfg))
+(/usr/share/texmf-texlive/tex/latex/paralist/paralist.sty)
+(/usr/share/texmf-texlive/tex/latex/titlesec/titlesec.sty)
+(/usr/share/texmf-texlive/tex/latex/amsmath/amsmath.sty
+For additional information on amsmath, use the `?' option.
+(/usr/share/texmf-texlive/tex/latex/amsmath/amstext.sty
+(/usr/share/texmf-texlive/tex/latex/amsmath/amsgen.sty))
+(/usr/share/texmf-texlive/tex/latex/amsmath/amsbsy.sty)
+(/usr/share/texmf-texlive/tex/latex/amsmath/amsopn.sty))
+(/usr/share/texmf-texlive/tex/latex/setspace/setspace.sty
+Package: `setspace' 6.7 <2000/12/01>
+) (/usr/share/texmf-texlive/tex/latex/polynom/polynom.sty)
+(/usr/share/texmf-texlive/tex/latex/stmaryrd/stmaryrd.sty)
+(/usr/share/texmf-texlive/tex/generic/xypic/xy.sty
+(/usr/share/texmf-texlive/tex/generic/xypic/xy.tex Bootstrap'ing: catcodes,
+docmode, (/usr/share/texmf-texlive/tex/generic/xypic/xyrecat.tex)
+(/usr/share/texmf-texlive/tex/generic/xypic/xyidioms.tex)
+
+ Xy-pic version 3.7 <1999/02/16>
+ Copyright (c) 1991-1998 by Kristoffer H. Rose <krisrose@ens-lyon.fr>
+ Xy-pic is free software: see the User's Guide for details.
+
+Loading kernel: messages; fonts; allocations: state, direction,
+utility macros; pictures: \xy, positions, objects, decorations;
+kernel objects: directionals, circles, text; options; algorithms: directions,
+edges, connections;  Xy-pic loaded)
+(/usr/share/texmf-texlive/tex/generic/xypic/xyarrow.tex
+ Xy-pic option: Arrow and Path feature v.3.5 path, \ar, loaded)
+(/usr/share/texmf-texlive/tex/generic/xypic/xymatrix.tex
+ Xy-pic option: Matrix feature v.3.4 loaded)
+(/usr/share/texmf-texlive/tex/generic/xypic/xycurve.tex
+ Xy-pic option: Curve and Spline extension v.3.7 curve, circles, loaded))
+(/usr/share/texmf-texlive/tex/latex/float/float.sty)
+(/usr/share/texmf-texlive/tex/latex/titlesec/titletoc.sty) (data/latexki.sty)
+(/usr/share/texmf-texlive/tex/latex/graphics/graphicx.sty
+(/usr/share/texmf-texlive/tex/latex/graphics/graphics.sty
+(/usr/share/texmf-texlive/tex/latex/graphics/trig.sty)
+(/etc/texmf/tex/latex/config/graphics.cfg)
+(/usr/share/texmf-texlive/tex/latex/pdftex-def/pdftex.def)))
+(/usr/share/texmf-texlive/tex/latex/hyperref/hyperref.sty
+(/usr/share/texmf-texlive/tex/generic/ifxetex/ifxetex.sty)
+(/usr/share/texmf-texlive/tex/latex/oberdiek/hycolor.sty
+(/usr/share/texmf-texlive/tex/latex/oberdiek/xcolor-patch.sty))
+(/usr/share/texmf-texlive/tex/latex/hyperref/pd1enc.def)
+(/usr/share/texmf-texlive/tex/generic/oberdiek/etexcmds.sty
+(/usr/share/texmf-texlive/tex/generic/oberdiek/infwarerr.sty))
+(/usr/share/texmf-texlive/tex/latex/latexconfig/hyperref.cfg)
+(/usr/share/texmf-texlive/tex/latex/oberdiek/kvoptions.sty
+(/usr/share/texmf-texlive/tex/generic/oberdiek/kvsetkeys.sty))
+Implicit mode ON; LaTeX internals redefined
+(/usr/share/texmf-texlive/tex/latex/ltxmisc/url.sty)
+(/usr/share/texmf-texlive/tex/generic/oberdiek/bitset.sty
+(/usr/share/texmf-texlive/tex/generic/oberdiek/intcalc.sty)
+(/usr/share/texmf-texlive/tex/generic/oberdiek/bigintcalc.sty
+(/usr/share/texmf-texlive/tex/generic/oberdiek/pdftexcmds.sty
+(/usr/share/texmf-texlive/tex/generic/oberdiek/ifluatex.sty)
+(/usr/share/texmf-texlive/tex/generic/oberdiek/ltxcmds.sty))))
+(/usr/share/texmf-texlive/tex/generic/oberdiek/atbegshi.sty))
+*hyperref using default driver hpdftex*
+(/usr/share/texmf-texlive/tex/latex/hyperref/hpdftex.def)
+(/usr/share/texmf-texlive/tex/latex/base/makeidx.sty)
+Writing index file Algebra.idx
+No file Algebra.aux.
+*geometry auto-detecting driver*
+*geometry detected driver: pdftex*
+(/usr/share/texmf-texlive/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+) (/usr/share/texmf-texlive/tex/latex/hyperref/nameref.sty
+(/usr/share/texmf-texlive/tex/latex/oberdiek/refcount.sty))
+Underfull \hbox (badness 10000) in paragraph at lines 69--70
+
+
+LaTeX Font Warning: Font shape `T1/cmr/m/n' in size <40> not available
+(Font)              size <35.83> substituted on input line 72.
+
+
+LaTeX Font Warning: Font shape `T1/cmr/bx/n' in size <40> not available
+(Font)              size <35.83> substituted on input line 72.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 74--75
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 76--77
+
+(/usr/share/texmf-texlive/tex/latex/amsfonts/umsa.fd)
+(/usr/share/texmf-texlive/tex/latex/amsfonts/umsb.fd)
+(/usr/share/texmf-texlive/tex/latex/stmaryrd/Ustmry.fd)
+Underfull \hbox (badness 10000) in paragraph at lines 78--79
+
+[1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2] [3] [4]
+Chapter I\hskip 1em\relax .
+
+Underfull \vbox (badness 10000) has occurred while \output is active [5]
+(/usr/share/texmf-texlive/tex/latex/amsfonts/ueuf.fd)
+Underfull \hbox (badness 10000) in paragraph at lines 145--147
+
+[6] [7] [8]
+Underfull \vbox (badness 3209) has occurred while \output is active [9]
+Underfull \vbox (badness 10000) has occurred while \output is active [10]
+Underfull \vbox (badness 10000) has occurred while \output is active [11]
+Underfull \vbox (badness 10000) has occurred while \output is active [12]
+Underfull \vbox (badness 5607) has occurred while \output is active [13]
+Underfull \hbox (badness 10000) in paragraph at lines 362--366
+
+[14] [15]
+Underfull \vbox (badness 1748) has occurred while \output is active [16]
+[17]
+Underfull \vbox (badness 1895) has occurred while \output is active [18]
+[19] [20] [21]
+Underfull \vbox (badness 2418) has occurred while \output is active [22]
+[23]
+Underfull \vbox (badness 10000) has occurred while \output is active [24]
+[25] <xymatrix 3x3 174>
+Underfull \hbox (badness 10000) in paragraph at lines 710--712
+
+[26] <xymatrix 5x3 376>
+Underfull \vbox (badness 5288) has occurred while \output is active [27]
+Underfull \vbox (badness 5260) has occurred while \output is active [28]
+Underfull \vbox (badness 10000) has occurred while \output is active [29]
+[30]
+Underfull \vbox (badness 10000) has occurred while \output is active [31]
+Underfull \vbox (badness 6094) has occurred while \output is active [32]
+Underfull \hbox (badness 10000) in paragraph at lines 917--918
+
+[33] (/usr/share/texmf-texlive/tex/latex/base/omscmr.fd) [34]
+Underfull \hbox (badness 10000) in paragraph at lines 979--983
+[]\T1/cmr/m/n/12 Let $\U/msb/m/n/12 L\OML/cmm/m/it/12 =\U/msb/m/n/12 K$ \T1/cmr
+/m/n/12 be a Ga-lois ex-ten-sion with cyclic Ga-lois group $[]\OT1/cmr/m/n/12 (
+\U/msb/m/n/12 L\OML/cmm/m/it/12 =\U/msb/m/n/12 K\OT1/cmr/m/n/12 ) = \OMS/cmsy/m
+/n/12 h\OML/cmm/m/it/12 ^^[\OMS/cmsy/m/n/12 i$ \T1/cmr/m/n/12 and
+[35]
+Underfull \hbox (badness 10000) in paragraph at lines 1008--1009
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1018--1020
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active [36]
+Underfull \hbox (badness 10000) in paragraph at lines 1035--1038
+
+[37]
+Underfull \vbox (badness 5475) has occurred while \output is active [38]
+Underfull \vbox (badness 1448) has occurred while \output is active [39]
+Underfull \vbox (badness 10000) has occurred while \output is active [40]
+Underfull \vbox (badness 1466) has occurred while \output is active [41]
+[42]
+Chapter II\hskip 1em\relax .
+
+Underfull \vbox (badness 10000) has occurred while \output is active [43]
+Underfull \vbox (badness 10000) has occurred while \output is active [44]
+[45]
+Underfull \vbox (badness 2582) has occurred while \output is active [46]
+[47]
+Underfull \vbox (badness 10000) has occurred while \output is active [48]
+Underfull \vbox (badness 6978) has occurred while \output is active [49]
+Underfull \hbox (badness 10000) in paragraph at lines 1470--1471
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active [50]
+[51] [52] [53]
+Underfull \vbox (badness 10000) has occurred while \output is active [54]
+Underfull \vbox (badness 10000) has occurred while \output is active [55]
+[56] [57]
+Underfull \vbox (badness 6016) has occurred while \output is active [58]
+Underfull \vbox (badness 10000) has occurred while \output is active [59]
+Underfull \vbox (badness 10000) has occurred while \output is active [60]
+[61]
+Underfull \vbox (badness 10000) has occurred while \output is active [62]
+Underfull \vbox (badness 1472) has occurred while \output is active [63]
+[64]
+Chapter III\hskip 1em\relax .
+[65] [66]
+Underfull \vbox (badness 10000) has occurred while \output is active [67]
+<xymatrix 3x3 161> <xymatrix 5x3 185> [68] <xymatrix 3x2 192> <xymatrix 3x2
+149>
+Underfull \hbox (badness 10000) in paragraph at lines 2058--2061
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active [69]
+Underfull \vbox (badness 1127) has occurred while \output is active [70]
+[71]
+Underfull \vbox (badness 10000) has occurred while \output is active [72]
+[73]
+Underfull \vbox (badness 10000) has occurred while \output is active [74]
+Underfull \vbox (badness 2856) has occurred while \output is active [75]
+<xymatrix 3x3 243> [76]
+Underfull \hbox (badness 2165) in paragraph at lines 2331--2332
+[]\T1/cmr/m/n/12 Let $\OML/cmm/m/it/12 M[] \OMS/cmsy/m/n/12 ^^Z \OML/cmm/m/it/1
+2 M[] \OMS/cmsy/m/n/12 ^^Z []$ \T1/cmr/m/n/12 be an as-cend-ing chain of sub-mo
+d-ules in $\OML/cmm/m/it/12 M[]$\T1/cmr/m/n/12 . Then
+
+Underfull \hbox (badness 1931) in paragraph at lines 2332--2333
+[]\T1/cmr/m/n/12 Let $\OML/cmm/m/it/12 M[] \OMS/cmsy/m/n/12 ^^Z \OML/cmm/m/it/1
+2 M[] \OMS/cmsy/m/n/12 ^^Z []$ \T1/cmr/m/n/12 be an as-cend-ing chain of sub-mo
+d-ules in $\OML/cmm/m/it/12 M[]$\T1/cmr/m/n/12 . Then
+[77] <xymatrix 10x2 491> [78]
+Underfull \vbox (badness 1810) has occurred while \output is active [79]
+[80] [81] [82] [83]
+Underfull \hbox (badness 10000) in paragraph at lines 2555--2557
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active [84]
+[85]
+Underfull \vbox (badness 2564) has occurred while \output is active [86]
+Underfull \vbox (badness 2913) has occurred while \output is active [87]
+Underfull \vbox (badness 10000) has occurred while \output is active [88]
+Underfull \vbox (badness 1394) has occurred while \output is active [89]
+Underfull \vbox (badness 10000) has occurred while \output is active [90]
+[91]
+No file Algebra.ind.
+(./Algebra.aux)
+
+LaTeX Font Warning: Size substitutions with differences
+(Font)              up to 4.17pt have occurred.
+
+ )
+(see the transcript file for additional information){/usr/share/texmf/fonts/enc
+/dvips/cm-super/cm-super-t1.enc}</usr/share/texmf-texlive/fonts/type1/public/am
+sfonts/cm/cmex10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cmex
+tra/cmex8.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmmi12.p
+fb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/sha
+re/texmf-texlive/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texmf-tex
+live/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texmf-texlive/fonts/t
+ype1/public/amsfonts/cm/cmr6.pfb></usr/share/texmf-texlive/fonts/type1/public/a
+msfonts/cm/cmr8.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cm
+sy10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmsy6.pfb></u
+sr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/tex
+mf-texlive/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/share/texmf-texlive/
+fonts/type1/public/amsfonts/euler/eufm10.pfb></usr/share/texmf-texlive/fonts/ty
+pe1/public/amsfonts/symbols/msam10.pfb></usr/share/texmf-texlive/fonts/type1/pu
+blic/amsfonts/symbols/msbm10.pfb></usr/share/texmf-texlive/fonts/type1/public/a
+msfonts/symbols/msbm7.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbi144
+0.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx1200.pfb></usr/share/te
+xmf/fonts/type1/public/cm-super/sfbx1440.pfb></usr/share/texmf/fonts/type1/publ
+ic/cm-super/sfbx2488.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx3583
+.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm0800.pfb></usr/share/tex
+mf/fonts/type1/public/cm-super/sfrm1000.pfb></usr/share/texmf/fonts/type1/publi
+c/cm-super/sfrm1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1440.
+pfb></usr/share/texmf/fonts/type1/public/cm-super/sfsl1200.pfb></usr/share/texm
+f/fonts/type1/public/cm-super/sfti0800.pfb></usr/share/texmf/fonts/type1/public
+/cm-super/sfti1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfti1440.p
+fb></usr/share/texmf-texlive/fonts/type1/hoekwater/stmaryrd/stmary10.pfb></usr/
+share/texmf-texlive/fonts/type1/public/xypic/xyatip10.pfb></usr/share/texmf-tex
+live/fonts/type1/public/xypic/xybtip10.pfb></usr/share/texmf-texlive/fonts/type
+1/public/xypic/xydash10.pfb>
+Output written on Algebra.pdf (91 pages, 817157 bytes).
+Transcript written on Algebra.log.
+Result: ExitSuccess
+
+Running /usr/bin/makeindex Algebra.idx in an env with 4 entries:
+This is makeindex, version 2.15 [TeX Live 2009] (kpathsea + Thai support).
+Scanning input file Algebra.idx....done (3 entries accepted, 0 rejected).
+Sorting entries....done (5 comparisons).
+Generating output file Algebra.ind....done (11 lines written, 0 warnings).
+Output written in Algebra.ind.
+Transcript written in Algebra.ilg.
+Result: ExitSuccess
+
+Running /usr/bin/pdflatex Algebra.tex in an env with 4 entries:
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian)
+entering extended mode
+(data/Algebra.tex
+LaTeX2e <2009/09/24>
+Babel <v3.8l> and hyphenation patterns for english, usenglishmax, dumylang, noh
+yphenation, farsi, arabic, croatian, bulgarian, ukrainian, russian, czech, slov
+ak, danish, dutch, finnish, french, basque, ngerman, german, german-x-2009-06-1
+9, ngerman-x-2009-06-19, ibycus, monogreek, greek, ancientgreek, hungarian, san
+skrit, italian, latin, latvian, lithuanian, mongolian2a, mongolian, bokmal, nyn
+orsk, romanian, irish, coptic, serbian, turkish, welsh, esperanto, uppersorbian
+, estonian, indonesian, interlingua, icelandic, kurmanji, slovenian, polish, po
+rtuguese, spanish, galician, catalan, swedish, ukenglish, loaded.
+(/usr/share/texmf-texlive/tex/latex/base/book.cls
+Document Class: book 2007/10/19 v1.4h Standard LaTeX document class
+(/usr/share/texmf-texlive/tex/latex/base/bk12.clo))
+(/usr/share/texmf-texlive/tex/latex/amsfonts/amssymb.sty
+(/usr/share/texmf-texlive/tex/latex/amsfonts/amsfonts.sty))
+(/usr/share/texmf-texlive/tex/latex/base/inputenc.sty
+(/usr/share/texmf-texlive/tex/latex/base/latin9.def))
+(/usr/share/texmf-texlive/tex/latex/base/fontenc.sty
+(/usr/share/texmf-texlive/tex/latex/base/t1enc.def))
+(/usr/share/texmf-texlive/tex/generic/babel/babel.sty
+(/usr/share/texmf-texlive/tex/generic/babel/english.ldf
+(/usr/share/texmf-texlive/tex/generic/babel/babel.def)))
+(/usr/share/texmf-texlive/tex/latex/geometry/geometry.sty
+(/usr/share/texmf-texlive/tex/latex/graphics/keyval.sty)
+(/usr/share/texmf-texlive/tex/generic/oberdiek/ifpdf.sty)
+(/usr/share/texmf-texlive/tex/generic/oberdiek/ifvtex.sty)
+(/usr/share/texmf-texlive/tex/xelatex/xetexconfig/geometry.cfg))
+(/usr/share/texmf-texlive/tex/latex/paralist/paralist.sty)
+(/usr/share/texmf-texlive/tex/latex/titlesec/titlesec.sty)
+(/usr/share/texmf-texlive/tex/latex/amsmath/amsmath.sty
+For additional information on amsmath, use the `?' option.
+(/usr/share/texmf-texlive/tex/latex/amsmath/amstext.sty
+(/usr/share/texmf-texlive/tex/latex/amsmath/amsgen.sty))
+(/usr/share/texmf-texlive/tex/latex/amsmath/amsbsy.sty)
+(/usr/share/texmf-texlive/tex/latex/amsmath/amsopn.sty))
+(/usr/share/texmf-texlive/tex/latex/setspace/setspace.sty
+Package: `setspace' 6.7 <2000/12/01>
+) (/usr/share/texmf-texlive/tex/latex/polynom/polynom.sty)
+(/usr/share/texmf-texlive/tex/latex/stmaryrd/stmaryrd.sty)
+(/usr/share/texmf-texlive/tex/generic/xypic/xy.sty
+(/usr/share/texmf-texlive/tex/generic/xypic/xy.tex Bootstrap'ing: catcodes,
+docmode, (/usr/share/texmf-texlive/tex/generic/xypic/xyrecat.tex)
+(/usr/share/texmf-texlive/tex/generic/xypic/xyidioms.tex)
+
+ Xy-pic version 3.7 <1999/02/16>
+ Copyright (c) 1991-1998 by Kristoffer H. Rose <krisrose@ens-lyon.fr>
+ Xy-pic is free software: see the User's Guide for details.
+
+Loading kernel: messages; fonts; allocations: state, direction,
+utility macros; pictures: \xy, positions, objects, decorations;
+kernel objects: directionals, circles, text; options; algorithms: directions,
+edges, connections;  Xy-pic loaded)
+(/usr/share/texmf-texlive/tex/generic/xypic/xyarrow.tex
+ Xy-pic option: Arrow and Path feature v.3.5 path, \ar, loaded)
+(/usr/share/texmf-texlive/tex/generic/xypic/xymatrix.tex
+ Xy-pic option: Matrix feature v.3.4 loaded)
+(/usr/share/texmf-texlive/tex/generic/xypic/xycurve.tex
+ Xy-pic option: Curve and Spline extension v.3.7 curve, circles, loaded))
+(/usr/share/texmf-texlive/tex/latex/float/float.sty)
+(/usr/share/texmf-texlive/tex/latex/titlesec/titletoc.sty) (data/latexki.sty)
+(/usr/share/texmf-texlive/tex/latex/graphics/graphicx.sty
+(/usr/share/texmf-texlive/tex/latex/graphics/graphics.sty
+(/usr/share/texmf-texlive/tex/latex/graphics/trig.sty)
+(/etc/texmf/tex/latex/config/graphics.cfg)
+(/usr/share/texmf-texlive/tex/latex/pdftex-def/pdftex.def)))
+(/usr/share/texmf-texlive/tex/latex/hyperref/hyperref.sty
+(/usr/share/texmf-texlive/tex/generic/ifxetex/ifxetex.sty)
+(/usr/share/texmf-texlive/tex/latex/oberdiek/hycolor.sty
+(/usr/share/texmf-texlive/tex/latex/oberdiek/xcolor-patch.sty))
+(/usr/share/texmf-texlive/tex/latex/hyperref/pd1enc.def)
+(/usr/share/texmf-texlive/tex/generic/oberdiek/etexcmds.sty
+(/usr/share/texmf-texlive/tex/generic/oberdiek/infwarerr.sty))
+(/usr/share/texmf-texlive/tex/latex/latexconfig/hyperref.cfg)
+(/usr/share/texmf-texlive/tex/latex/oberdiek/kvoptions.sty
+(/usr/share/texmf-texlive/tex/generic/oberdiek/kvsetkeys.sty))
+Implicit mode ON; LaTeX internals redefined
+(/usr/share/texmf-texlive/tex/latex/ltxmisc/url.sty)
+(/usr/share/texmf-texlive/tex/generic/oberdiek/bitset.sty
+(/usr/share/texmf-texlive/tex/generic/oberdiek/intcalc.sty)
+(/usr/share/texmf-texlive/tex/generic/oberdiek/bigintcalc.sty
+(/usr/share/texmf-texlive/tex/generic/oberdiek/pdftexcmds.sty
+(/usr/share/texmf-texlive/tex/generic/oberdiek/ifluatex.sty)
+(/usr/share/texmf-texlive/tex/generic/oberdiek/ltxcmds.sty))))
+(/usr/share/texmf-texlive/tex/generic/oberdiek/atbegshi.sty))
+*hyperref using default driver hpdftex*
+(/usr/share/texmf-texlive/tex/latex/hyperref/hpdftex.def)
+(/usr/share/texmf-texlive/tex/latex/base/makeidx.sty)
+Writing index file Algebra.idx
+(./Algebra.aux)
+*geometry auto-detecting driver*
+*geometry detected driver: pdftex*
+(/usr/share/texmf-texlive/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+) (/usr/share/texmf-texlive/tex/latex/hyperref/nameref.sty
+(/usr/share/texmf-texlive/tex/latex/oberdiek/refcount.sty)) (./Algebra.out)
+(./Algebra.out)
+Underfull \hbox (badness 10000) in paragraph at lines 69--70
+
+
+LaTeX Font Warning: Font shape `T1/cmr/m/n' in size <40> not available
+(Font)              size <35.83> substituted on input line 72.
+
+
+LaTeX Font Warning: Font shape `T1/cmr/bx/n' in size <40> not available
+(Font)              size <35.83> substituted on input line 72.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 74--75
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 76--77
+
+(/usr/share/texmf-texlive/tex/latex/amsfonts/umsa.fd)
+(/usr/share/texmf-texlive/tex/latex/amsfonts/umsb.fd)
+(/usr/share/texmf-texlive/tex/latex/stmaryrd/Ustmry.fd)
+Underfull \hbox (badness 10000) in paragraph at lines 78--79
+
+[1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2] (./Algebra.toc
+Overfull \hbox (0.98036pt too wide) detected at line 67
+\T1/cmr/bx/n/12 II  
+
+Overfull \hbox (1.95786pt too wide) detected at line 98
+\T1/cmr/m/n/12 Ÿ 10  
+
+Overfull \hbox (6.38182pt too wide) detected at line 110
+\T1/cmr/bx/n/12 III  
+
+Overfull \hbox (1.95786pt too wide) detected at line 111
+\T1/cmr/m/n/12 Ÿ 11  
+
+Overfull \hbox (1.95786pt too wide) detected at line 131
+\T1/cmr/m/n/12 Ÿ 12  
+
+Overfull \hbox (1.95786pt too wide) detected at line 139
+\T1/cmr/m/n/12 Ÿ 13  
+
+Overfull \hbox (1.95786pt too wide) detected at line 149
+\T1/cmr/m/n/12 Ÿ 14  
+) [3] [4]
+Chapter I\hskip 1em\relax .
+
+Underfull \vbox (badness 10000) has occurred while \output is active [5]
+(/usr/share/texmf-texlive/tex/latex/amsfonts/ueuf.fd)
+Underfull \hbox (badness 10000) in paragraph at lines 145--147
+
+[6] [7] [8]
+Underfull \vbox (badness 3209) has occurred while \output is active [9]
+Underfull \vbox (badness 10000) has occurred while \output is active [10]
+Underfull \vbox (badness 10000) has occurred while \output is active [11]
+Underfull \vbox (badness 10000) has occurred while \output is active [12]
+Underfull \vbox (badness 5607) has occurred while \output is active [13]
+Underfull \hbox (badness 10000) in paragraph at lines 362--366
+
+[14] [15]
+Underfull \vbox (badness 1748) has occurred while \output is active [16]
+[17]
+Underfull \vbox (badness 1895) has occurred while \output is active [18]
+[19] [20] [21]
+Underfull \vbox (badness 2418) has occurred while \output is active [22]
+[23]
+Underfull \vbox (badness 10000) has occurred while \output is active [24]
+[25] <xymatrix 3x3 174>
+Underfull \hbox (badness 10000) in paragraph at lines 710--712
+
+[26] <xymatrix 5x3 376>
+Underfull \vbox (badness 5288) has occurred while \output is active [27]
+Underfull \vbox (badness 5260) has occurred while \output is active [28]
+Underfull \vbox (badness 10000) has occurred while \output is active [29]
+[30]
+Underfull \vbox (badness 10000) has occurred while \output is active [31]
+Underfull \vbox (badness 6094) has occurred while \output is active [32]
+Underfull \hbox (badness 10000) in paragraph at lines 917--918
+
+[33] (/usr/share/texmf-texlive/tex/latex/base/omscmr.fd) [34]
+Underfull \hbox (badness 10000) in paragraph at lines 979--983
+[]\T1/cmr/m/n/12 Let $\U/msb/m/n/12 L\OML/cmm/m/it/12 =\U/msb/m/n/12 K$ \T1/cmr
+/m/n/12 be a Ga-lois ex-ten-sion with cyclic Ga-lois group $[]\OT1/cmr/m/n/12 (
+\U/msb/m/n/12 L\OML/cmm/m/it/12 =\U/msb/m/n/12 K\OT1/cmr/m/n/12 ) = \OMS/cmsy/m
+/n/12 h\OML/cmm/m/it/12 ^^[\OMS/cmsy/m/n/12 i$ \T1/cmr/m/n/12 and
+[35]
+Underfull \hbox (badness 10000) in paragraph at lines 1008--1009
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1018--1020
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active [36]
+Underfull \hbox (badness 10000) in paragraph at lines 1035--1038
+
+[37]
+Underfull \vbox (badness 5475) has occurred while \output is active [38]
+Underfull \vbox (badness 1448) has occurred while \output is active [39]
+Underfull \vbox (badness 10000) has occurred while \output is active [40]
+Underfull \vbox (badness 1466) has occurred while \output is active [41]
+[42]
+Chapter II\hskip 1em\relax .
+
+Underfull \vbox (badness 10000) has occurred while \output is active [43]
+Underfull \vbox (badness 10000) has occurred while \output is active [44]
+[45]
+Underfull \vbox (badness 2582) has occurred while \output is active [46]
+[47]
+Underfull \vbox (badness 10000) has occurred while \output is active [48]
+Underfull \vbox (badness 6978) has occurred while \output is active [49]
+Underfull \hbox (badness 10000) in paragraph at lines 1470--1471
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active [50]
+[51] [52] [53]
+Underfull \vbox (badness 10000) has occurred while \output is active [54]
+Underfull \vbox (badness 10000) has occurred while \output is active [55]
+[56] [57]
+Underfull \vbox (badness 6016) has occurred while \output is active [58]
+Underfull \vbox (badness 10000) has occurred while \output is active [59]
+Underfull \vbox (badness 10000) has occurred while \output is active [60]
+[61]
+Underfull \vbox (badness 10000) has occurred while \output is active [62]
+Underfull \vbox (badness 1472) has occurred while \output is active [63]
+[64]
+Chapter III\hskip 1em\relax .
+[65] [66]
+Underfull \vbox (badness 10000) has occurred while \output is active [67]
+<xymatrix 3x3 161> <xymatrix 5x3 185> [68] <xymatrix 3x2 192> <xymatrix 3x2
+149>
+Underfull \hbox (badness 10000) in paragraph at lines 2058--2061
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active [69]
+Underfull \vbox (badness 1127) has occurred while \output is active [70]
+[71]
+Underfull \vbox (badness 10000) has occurred while \output is active [72]
+[73]
+Underfull \vbox (badness 10000) has occurred while \output is active [74]
+Underfull \vbox (badness 2856) has occurred while \output is active [75]
+<xymatrix 3x3 243> [76]
+Underfull \hbox (badness 2165) in paragraph at lines 2331--2332
+[]\T1/cmr/m/n/12 Let $\OML/cmm/m/it/12 M[] \OMS/cmsy/m/n/12 ^^Z \OML/cmm/m/it/1
+2 M[] \OMS/cmsy/m/n/12 ^^Z []$ \T1/cmr/m/n/12 be an as-cend-ing chain of sub-mo
+d-ules in $\OML/cmm/m/it/12 M[]$\T1/cmr/m/n/12 . Then
+
+Underfull \hbox (badness 1931) in paragraph at lines 2332--2333
+[]\T1/cmr/m/n/12 Let $\OML/cmm/m/it/12 M[] \OMS/cmsy/m/n/12 ^^Z \OML/cmm/m/it/1
+2 M[] \OMS/cmsy/m/n/12 ^^Z []$ \T1/cmr/m/n/12 be an as-cend-ing chain of sub-mo
+d-ules in $\OML/cmm/m/it/12 M[]$\T1/cmr/m/n/12 . Then
+[77] <xymatrix 10x2 491> [78]
+Underfull \vbox (badness 1810) has occurred while \output is active [79]
+[80] [81] [82] [83]
+Underfull \hbox (badness 10000) in paragraph at lines 2555--2557
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active [84]
+[85]
+Underfull \vbox (badness 2564) has occurred while \output is active [86]
+Underfull \vbox (badness 2913) has occurred while \output is active [87]
+Underfull \vbox (badness 10000) has occurred while \output is active [88]
+Underfull \vbox (badness 1394) has occurred while \output is active [89]
+Underfull \vbox (badness 10000) has occurred while \output is active [90]
+[91] (./Algebra.ind [92]) (./Algebra.aux)
+
+LaTeX Font Warning: Size substitutions with differences
+(Font)              up to 4.17pt have occurred.
+
+ )
+(see the transcript file for additional information){/usr/share/texmf/fonts/enc
+/dvips/cm-super/cm-super-t1.enc}</usr/share/texmf-texlive/fonts/type1/public/am
+sfonts/cm/cmex10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cmex
+tra/cmex8.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmmi12.p
+fb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/sha
+re/texmf-texlive/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texmf-tex
+live/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texmf-texlive/fonts/t
+ype1/public/amsfonts/cm/cmr6.pfb></usr/share/texmf-texlive/fonts/type1/public/a
+msfonts/cm/cmr8.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cm
+sy10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmsy6.pfb></u
+sr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/tex
+mf-texlive/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/share/texmf-texlive/
+fonts/type1/public/amsfonts/euler/eufm10.pfb></usr/share/texmf-texlive/fonts/ty
+pe1/public/amsfonts/symbols/msam10.pfb></usr/share/texmf-texlive/fonts/type1/pu
+blic/amsfonts/symbols/msbm10.pfb></usr/share/texmf-texlive/fonts/type1/public/a
+msfonts/symbols/msbm7.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbi144
+0.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx1200.pfb></usr/share/te
+xmf/fonts/type1/public/cm-super/sfbx1440.pfb></usr/share/texmf/fonts/type1/publ
+ic/cm-super/sfbx2488.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx3583
+.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm0800.pfb></usr/share/tex
+mf/fonts/type1/public/cm-super/sfrm1000.pfb></usr/share/texmf/fonts/type1/publi
+c/cm-super/sfrm1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1440.
+pfb></usr/share/texmf/fonts/type1/public/cm-super/sfsl1200.pfb></usr/share/texm
+f/fonts/type1/public/cm-super/sfti0800.pfb></usr/share/texmf/fonts/type1/public
+/cm-super/sfti1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfti1440.p
+fb></usr/share/texmf-texlive/fonts/type1/hoekwater/stmaryrd/stmary10.pfb></usr/
+share/texmf-texlive/fonts/type1/public/xypic/xyatip10.pfb></usr/share/texmf-tex
+live/fonts/type1/public/xypic/xybtip10.pfb></usr/share/texmf-texlive/fonts/type
+1/public/xypic/xydash10.pfb>
+Output written on Algebra.pdf (92 pages, 829609 bytes).
+Transcript written on Algebra.log.
+Result: ExitSuccess
+
+Running /usr/bin/pdflatex Algebra.tex in an env with 4 entries:
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian)
+entering extended mode
+(data/Algebra.tex
+LaTeX2e <2009/09/24>
+Babel <v3.8l> and hyphenation patterns for english, usenglishmax, dumylang, noh
+yphenation, farsi, arabic, croatian, bulgarian, ukrainian, russian, czech, slov
+ak, danish, dutch, finnish, french, basque, ngerman, german, german-x-2009-06-1
+9, ngerman-x-2009-06-19, ibycus, monogreek, greek, ancientgreek, hungarian, san
+skrit, italian, latin, latvian, lithuanian, mongolian2a, mongolian, bokmal, nyn
+orsk, romanian, irish, coptic, serbian, turkish, welsh, esperanto, uppersorbian
+, estonian, indonesian, interlingua, icelandic, kurmanji, slovenian, polish, po
+rtuguese, spanish, galician, catalan, swedish, ukenglish, loaded.
+(/usr/share/texmf-texlive/tex/latex/base/book.cls
+Document Class: book 2007/10/19 v1.4h Standard LaTeX document class
+(/usr/share/texmf-texlive/tex/latex/base/bk12.clo))
+(/usr/share/texmf-texlive/tex/latex/amsfonts/amssymb.sty
+(/usr/share/texmf-texlive/tex/latex/amsfonts/amsfonts.sty))
+(/usr/share/texmf-texlive/tex/latex/base/inputenc.sty
+(/usr/share/texmf-texlive/tex/latex/base/latin9.def))
+(/usr/share/texmf-texlive/tex/latex/base/fontenc.sty
+(/usr/share/texmf-texlive/tex/latex/base/t1enc.def))
+(/usr/share/texmf-texlive/tex/generic/babel/babel.sty
+(/usr/share/texmf-texlive/tex/generic/babel/english.ldf
+(/usr/share/texmf-texlive/tex/generic/babel/babel.def)))
+(/usr/share/texmf-texlive/tex/latex/geometry/geometry.sty
+(/usr/share/texmf-texlive/tex/latex/graphics/keyval.sty)
+(/usr/share/texmf-texlive/tex/generic/oberdiek/ifpdf.sty)
+(/usr/share/texmf-texlive/tex/generic/oberdiek/ifvtex.sty)
+(/usr/share/texmf-texlive/tex/xelatex/xetexconfig/geometry.cfg))
+(/usr/share/texmf-texlive/tex/latex/paralist/paralist.sty)
+(/usr/share/texmf-texlive/tex/latex/titlesec/titlesec.sty)
+(/usr/share/texmf-texlive/tex/latex/amsmath/amsmath.sty
+For additional information on amsmath, use the `?' option.
+(/usr/share/texmf-texlive/tex/latex/amsmath/amstext.sty
+(/usr/share/texmf-texlive/tex/latex/amsmath/amsgen.sty))
+(/usr/share/texmf-texlive/tex/latex/amsmath/amsbsy.sty)
+(/usr/share/texmf-texlive/tex/latex/amsmath/amsopn.sty))
+(/usr/share/texmf-texlive/tex/latex/setspace/setspace.sty
+Package: `setspace' 6.7 <2000/12/01>
+) (/usr/share/texmf-texlive/tex/latex/polynom/polynom.sty)
+(/usr/share/texmf-texlive/tex/latex/stmaryrd/stmaryrd.sty)
+(/usr/share/texmf-texlive/tex/generic/xypic/xy.sty
+(/usr/share/texmf-texlive/tex/generic/xypic/xy.tex Bootstrap'ing: catcodes,
+docmode, (/usr/share/texmf-texlive/tex/generic/xypic/xyrecat.tex)
+(/usr/share/texmf-texlive/tex/generic/xypic/xyidioms.tex)
+
+ Xy-pic version 3.7 <1999/02/16>
+ Copyright (c) 1991-1998 by Kristoffer H. Rose <krisrose@ens-lyon.fr>
+ Xy-pic is free software: see the User's Guide for details.
+
+Loading kernel: messages; fonts; allocations: state, direction,
+utility macros; pictures: \xy, positions, objects, decorations;
+kernel objects: directionals, circles, text; options; algorithms: directions,
+edges, connections;  Xy-pic loaded)
+(/usr/share/texmf-texlive/tex/generic/xypic/xyarrow.tex
+ Xy-pic option: Arrow and Path feature v.3.5 path, \ar, loaded)
+(/usr/share/texmf-texlive/tex/generic/xypic/xymatrix.tex
+ Xy-pic option: Matrix feature v.3.4 loaded)
+(/usr/share/texmf-texlive/tex/generic/xypic/xycurve.tex
+ Xy-pic option: Curve and Spline extension v.3.7 curve, circles, loaded))
+(/usr/share/texmf-texlive/tex/latex/float/float.sty)
+(/usr/share/texmf-texlive/tex/latex/titlesec/titletoc.sty) (data/latexki.sty)
+(/usr/share/texmf-texlive/tex/latex/graphics/graphicx.sty
+(/usr/share/texmf-texlive/tex/latex/graphics/graphics.sty
+(/usr/share/texmf-texlive/tex/latex/graphics/trig.sty)
+(/etc/texmf/tex/latex/config/graphics.cfg)
+(/usr/share/texmf-texlive/tex/latex/pdftex-def/pdftex.def)))
+(/usr/share/texmf-texlive/tex/latex/hyperref/hyperref.sty
+(/usr/share/texmf-texlive/tex/generic/ifxetex/ifxetex.sty)
+(/usr/share/texmf-texlive/tex/latex/oberdiek/hycolor.sty
+(/usr/share/texmf-texlive/tex/latex/oberdiek/xcolor-patch.sty))
+(/usr/share/texmf-texlive/tex/latex/hyperref/pd1enc.def)
+(/usr/share/texmf-texlive/tex/generic/oberdiek/etexcmds.sty
+(/usr/share/texmf-texlive/tex/generic/oberdiek/infwarerr.sty))
+(/usr/share/texmf-texlive/tex/latex/latexconfig/hyperref.cfg)
+(/usr/share/texmf-texlive/tex/latex/oberdiek/kvoptions.sty
+(/usr/share/texmf-texlive/tex/generic/oberdiek/kvsetkeys.sty))
+Implicit mode ON; LaTeX internals redefined
+(/usr/share/texmf-texlive/tex/latex/ltxmisc/url.sty)
+(/usr/share/texmf-texlive/tex/generic/oberdiek/bitset.sty
+(/usr/share/texmf-texlive/tex/generic/oberdiek/intcalc.sty)
+(/usr/share/texmf-texlive/tex/generic/oberdiek/bigintcalc.sty
+(/usr/share/texmf-texlive/tex/generic/oberdiek/pdftexcmds.sty
+(/usr/share/texmf-texlive/tex/generic/oberdiek/ifluatex.sty)
+(/usr/share/texmf-texlive/tex/generic/oberdiek/ltxcmds.sty))))
+(/usr/share/texmf-texlive/tex/generic/oberdiek/atbegshi.sty))
+*hyperref using default driver hpdftex*
+(/usr/share/texmf-texlive/tex/latex/hyperref/hpdftex.def)
+(/usr/share/texmf-texlive/tex/latex/base/makeidx.sty)
+Writing index file Algebra.idx
+(./Algebra.aux)
+*geometry auto-detecting driver*
+*geometry detected driver: pdftex*
+(/usr/share/texmf-texlive/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+) (/usr/share/texmf-texlive/tex/latex/hyperref/nameref.sty
+(/usr/share/texmf-texlive/tex/latex/oberdiek/refcount.sty)) (./Algebra.out)
+(./Algebra.out)
+Underfull \hbox (badness 10000) in paragraph at lines 69--70
+
+
+LaTeX Font Warning: Font shape `T1/cmr/m/n' in size <40> not available
+(Font)              size <35.83> substituted on input line 72.
+
+
+LaTeX Font Warning: Font shape `T1/cmr/bx/n' in size <40> not available
+(Font)              size <35.83> substituted on input line 72.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 74--75
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 76--77
+
+(/usr/share/texmf-texlive/tex/latex/amsfonts/umsa.fd)
+(/usr/share/texmf-texlive/tex/latex/amsfonts/umsb.fd)
+(/usr/share/texmf-texlive/tex/latex/stmaryrd/Ustmry.fd)
+Underfull \hbox (badness 10000) in paragraph at lines 78--79
+
+[1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2] (./Algebra.toc
+Overfull \hbox (0.98036pt too wide) detected at line 67
+\T1/cmr/bx/n/12 II  
+
+Overfull \hbox (1.95786pt too wide) detected at line 98
+\T1/cmr/m/n/12 Ÿ 10  
+
+Overfull \hbox (6.38182pt too wide) detected at line 110
+\T1/cmr/bx/n/12 III  
+
+Overfull \hbox (1.95786pt too wide) detected at line 111
+\T1/cmr/m/n/12 Ÿ 11  
+
+Overfull \hbox (1.95786pt too wide) detected at line 131
+\T1/cmr/m/n/12 Ÿ 12  
+
+Overfull \hbox (1.95786pt too wide) detected at line 139
+\T1/cmr/m/n/12 Ÿ 13  
+
+Overfull \hbox (1.95786pt too wide) detected at line 149
+\T1/cmr/m/n/12 Ÿ 14  
+) [3] [4]
+Chapter I\hskip 1em\relax .
+
+Underfull \vbox (badness 10000) has occurred while \output is active [5]
+(/usr/share/texmf-texlive/tex/latex/amsfonts/ueuf.fd)
+Underfull \hbox (badness 10000) in paragraph at lines 145--147
+
+[6] [7] [8]
+Underfull \vbox (badness 3209) has occurred while \output is active [9]
+Underfull \vbox (badness 10000) has occurred while \output is active [10]
+Underfull \vbox (badness 10000) has occurred while \output is active [11]
+Underfull \vbox (badness 10000) has occurred while \output is active [12]
+Underfull \vbox (badness 5607) has occurred while \output is active [13]
+Underfull \hbox (badness 10000) in paragraph at lines 362--366
+
+[14] [15]
+Underfull \vbox (badness 1748) has occurred while \output is active [16]
+[17]
+Underfull \vbox (badness 1895) has occurred while \output is active [18]
+[19] [20] [21]
+Underfull \vbox (badness 2418) has occurred while \output is active [22]
+[23]
+Underfull \vbox (badness 10000) has occurred while \output is active [24]
+[25] <xymatrix 3x3 174>
+Underfull \hbox (badness 10000) in paragraph at lines 710--712
+
+[26] <xymatrix 5x3 376>
+Underfull \vbox (badness 5288) has occurred while \output is active [27]
+Underfull \vbox (badness 5260) has occurred while \output is active [28]
+Underfull \vbox (badness 10000) has occurred while \output is active [29]
+[30]
+Underfull \vbox (badness 10000) has occurred while \output is active [31]
+Underfull \vbox (badness 6094) has occurred while \output is active [32]
+Underfull \hbox (badness 10000) in paragraph at lines 917--918
+
+[33] (/usr/share/texmf-texlive/tex/latex/base/omscmr.fd) [34]
+Underfull \hbox (badness 10000) in paragraph at lines 979--983
+[]\T1/cmr/m/n/12 Let $\U/msb/m/n/12 L\OML/cmm/m/it/12 =\U/msb/m/n/12 K$ \T1/cmr
+/m/n/12 be a Ga-lois ex-ten-sion with cyclic Ga-lois group $[]\OT1/cmr/m/n/12 (
+\U/msb/m/n/12 L\OML/cmm/m/it/12 =\U/msb/m/n/12 K\OT1/cmr/m/n/12 ) = \OMS/cmsy/m
+/n/12 h\OML/cmm/m/it/12 ^^[\OMS/cmsy/m/n/12 i$ \T1/cmr/m/n/12 and
+[35]
+Underfull \hbox (badness 10000) in paragraph at lines 1008--1009
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1018--1020
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active [36]
+Underfull \hbox (badness 10000) in paragraph at lines 1035--1038
+
+[37]
+Underfull \vbox (badness 5475) has occurred while \output is active [38]
+Underfull \vbox (badness 1448) has occurred while \output is active [39]
+Underfull \vbox (badness 10000) has occurred while \output is active [40]
+Underfull \vbox (badness 1466) has occurred while \output is active [41]
+[42]
+Chapter II\hskip 1em\relax .
+
+Underfull \vbox (badness 10000) has occurred while \output is active [43]
+Underfull \vbox (badness 10000) has occurred while \output is active [44]
+[45]
+Underfull \vbox (badness 2582) has occurred while \output is active [46]
+[47]
+Underfull \vbox (badness 10000) has occurred while \output is active [48]
+Underfull \vbox (badness 6978) has occurred while \output is active [49]
+Underfull \hbox (badness 10000) in paragraph at lines 1470--1471
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active [50]
+[51] [52] [53]
+Underfull \vbox (badness 10000) has occurred while \output is active [54]
+Underfull \vbox (badness 10000) has occurred while \output is active [55]
+[56] [57]
+Underfull \vbox (badness 6016) has occurred while \output is active [58]
+Underfull \vbox (badness 10000) has occurred while \output is active [59]
+Underfull \vbox (badness 10000) has occurred while \output is active [60]
+[61]
+Underfull \vbox (badness 10000) has occurred while \output is active [62]
+Underfull \vbox (badness 1472) has occurred while \output is active [63]
+[64]
+Chapter III\hskip 1em\relax .
+[65] [66]
+Underfull \vbox (badness 10000) has occurred while \output is active [67]
+<xymatrix 3x3 161> <xymatrix 5x3 185> [68] <xymatrix 3x2 192> <xymatrix 3x2
+149>
+Underfull \hbox (badness 10000) in paragraph at lines 2058--2061
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active [69]
+Underfull \vbox (badness 1127) has occurred while \output is active [70]
+[71]
+Underfull \vbox (badness 10000) has occurred while \output is active [72]
+[73]
+Underfull \vbox (badness 10000) has occurred while \output is active [74]
+Underfull \vbox (badness 2856) has occurred while \output is active [75]
+<xymatrix 3x3 243> [76]
+Underfull \hbox (badness 2165) in paragraph at lines 2331--2332
+[]\T1/cmr/m/n/12 Let $\OML/cmm/m/it/12 M[] \OMS/cmsy/m/n/12 ^^Z \OML/cmm/m/it/1
+2 M[] \OMS/cmsy/m/n/12 ^^Z []$ \T1/cmr/m/n/12 be an as-cend-ing chain of sub-mo
+d-ules in $\OML/cmm/m/it/12 M[]$\T1/cmr/m/n/12 . Then
+
+Underfull \hbox (badness 1931) in paragraph at lines 2332--2333
+[]\T1/cmr/m/n/12 Let $\OML/cmm/m/it/12 M[] \OMS/cmsy/m/n/12 ^^Z \OML/cmm/m/it/1
+2 M[] \OMS/cmsy/m/n/12 ^^Z []$ \T1/cmr/m/n/12 be an as-cend-ing chain of sub-mo
+d-ules in $\OML/cmm/m/it/12 M[]$\T1/cmr/m/n/12 . Then
+[77] <xymatrix 10x2 491> [78]
+Underfull \vbox (badness 1810) has occurred while \output is active [79]
+[80] [81] [82] [83]
+Underfull \hbox (badness 10000) in paragraph at lines 2555--2557
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active [84]
+[85]
+Underfull \vbox (badness 2564) has occurred while \output is active [86]
+Underfull \vbox (badness 2913) has occurred while \output is active [87]
+Underfull \vbox (badness 10000) has occurred while \output is active [88]
+Underfull \vbox (badness 1394) has occurred while \output is active [89]
+Underfull \vbox (badness 10000) has occurred while \output is active [90]
+[91] (./Algebra.ind [92]) (./Algebra.aux)
+
+LaTeX Font Warning: Size substitutions with differences
+(Font)              up to 4.17pt have occurred.
+
+ )
+(see the transcript file for additional information){/usr/share/texmf/fonts/enc
+/dvips/cm-super/cm-super-t1.enc}</usr/share/texmf-texlive/fonts/type1/public/am
+sfonts/cm/cmex10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cmex
+tra/cmex8.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmmi12.p
+fb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/sha
+re/texmf-texlive/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texmf-tex
+live/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texmf-texlive/fonts/t
+ype1/public/amsfonts/cm/cmr6.pfb></usr/share/texmf-texlive/fonts/type1/public/a
+msfonts/cm/cmr8.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cm
+sy10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmsy6.pfb></u
+sr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/tex
+mf-texlive/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/share/texmf-texlive/
+fonts/type1/public/amsfonts/euler/eufm10.pfb></usr/share/texmf-texlive/fonts/ty
+pe1/public/amsfonts/symbols/msam10.pfb></usr/share/texmf-texlive/fonts/type1/pu
+blic/amsfonts/symbols/msbm10.pfb></usr/share/texmf-texlive/fonts/type1/public/a
+msfonts/symbols/msbm7.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbi144
+0.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx1200.pfb></usr/share/te
+xmf/fonts/type1/public/cm-super/sfbx1440.pfb></usr/share/texmf/fonts/type1/publ
+ic/cm-super/sfbx2488.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx3583
+.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm0800.pfb></usr/share/tex
+mf/fonts/type1/public/cm-super/sfrm1000.pfb></usr/share/texmf/fonts/type1/publi
+c/cm-super/sfrm1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1440.
+pfb></usr/share/texmf/fonts/type1/public/cm-super/sfsl1200.pfb></usr/share/texm
+f/fonts/type1/public/cm-super/sfti0800.pfb></usr/share/texmf/fonts/type1/public
+/cm-super/sfti1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfti1440.p
+fb></usr/share/texmf-texlive/fonts/type1/hoekwater/stmaryrd/stmary10.pfb></usr/
+share/texmf-texlive/fonts/type1/public/xypic/xyatip10.pfb></usr/share/texmf-tex
+live/fonts/type1/public/xypic/xybtip10.pfb></usr/share/texmf-texlive/fonts/type
+1/public/xypic/xydash10.pfb>
+Output written on Algebra.pdf (92 pages, 829609 bytes).
+Transcript written on Algebra.log.
+Result: ExitSuccess
+
+Running /usr/bin/convert -verbose Algebra.pdf[0] -resize 70x Algebra.png in an env with 4 entries:
+"gs" -q -dQUIET -dSAFER -dBATCH -dNOPAUSE -dNOPROMPT -dMaxBitmap=500000000 -dAlignToPixels=0 -dGridFitTT=2 "-sDEVICE=pngalpha" -dTextAlphaBits=4 -dGraphicsAlphaBits=4 "-r72x72" -dFirstPage=1 -dLastPage=1 "-sOutputFile=/tmp/magick-e2HBZ5pi-%08d" "-f/tmp/magick-TPyk9jn4" "-f/tmp/magick-1_DO9BkQ"
+/tmp/magick-e2HBZ5pi-00000001 PNG 595x842 595x842+0+0 8-bit DirectClass 13.6KB 0.000u 0:00.010
+Algebra.pdf[0]=>Algebra.pdf PDF 595x842 595x842+0+0 16-bit DirectClass 13.6KB 0.000u 0:00.000
+Algebra.pdf[0]=>Algebra.png PDF 595x842=>70x99 70x99+0+0 16-bit DirectClass 0.040u 0:00.019
+Result: ExitSuccess
+
+Running /usr/bin/optipng -verbose Algebra.png in an env with 4 entries:
+OptiPNG 0.6.4: Advanced PNG optimizer.
+Copyright (C) 2001-2010 Cosmin Truta.
+
+** Processing: Algebra.png
+70x99 pixels, 2x8 bits/pixel, grayscale+alpha
+Reducing image to 8 bits/pixel, 71 colors (70 transparent) in palette
+Input IDAT size = 533 bytes
+Input file size = 3163 bytes
+
+Trying:
+  zc = 9  zm = 8  zs = 0  f = 0		IDAT size = 391
+  zc = 9  zm = 8  zs = 1  f = 0		IDAT size = 387
+  zc = 1  zm = 8  zs = 2  f = 0		IDAT too big
+  zc = 9  zm = 8  zs = 3  f = 0		IDAT size = 377
+  zc = 9  zm = 8  zs = 0  f = 5		IDAT too big
+  zc = 9  zm = 8  zs = 1  f = 5		IDAT too big
+  zc = 1  zm = 8  zs = 2  f = 5		IDAT too big
+  zc = 9  zm = 8  zs = 3  f = 5		IDAT too big
+
+Algebra.png is already optimized.
+
+** Status report
+1 file(s) have been processed.
+Result: ExitSuccess
