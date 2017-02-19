@@ -339,7 +339,7 @@ $$\homoecc := \left\{ \phi: \CC \la \CC \ \vert \ \phi \textrm{ ist Homöomorphi
 Dann wird $\homoecc$ mit der Komposition von Abbildungen zur Gruppe.
 
 \hypertarget{beispieleinszweieins}{}
-\begin{ex} Sei $p=a_nz^n+a_{n-1}z^{n-1} + \ldots + a_1z + a_0$ ein komplexe Polynom. Dann ist die Abbildung
+\begin{ex} Sei $p=a_nz^n+a_{n-1}z^{n-1} + \ldots + a_1z + a_0$ ein komplexes Polynom. Dann ist die Abbildung
 $$\phi_p: \CC \la \CC, \qquad z \mapsto \begin{cases} \ p(z) & \ \textrm{ falls } z \neq \infty, \\ \ \infty & \ \textrm{ falls } z=\infty. \end{cases}$$
 ein Homöomorphismus genau dann, wenn $n=1$. In der Tat ist für $q(z)=\frac{1}{a}z-\frac{b}{a}$ die Abbildung $\phi_q$ eine stetige Umkehrabbildung. Ist umgekehrt $n=0$, so ist $\phi$ nicht injektiv und damit kein Homöomorphismus. Für $n \geqslant 2$ ist $\phi$ offenbar nicht bijektiv.
 \end{ex}
@@ -360,7 +360,7 @@ Für $a,b \in \C$, $a \neq 0$ sei
 $$\rho: \CC \la \CC, \qquad z \mapsto \begin{cases} \ az + b & \ \textrm{ falls } z \neq \infty, \\ \ \infty & \ \textrm{ falls } z = \infty. \end{cases}$$
 Dann ist $\rho \in \homoekcc$.
 \begin{pr}
-Nach \hyperlink{beispieleinszweieins}{Beispiel 1.2.1} ist $\rho$ ein Homöomorphismus. Es ist also lediglich die Kreistreue zu zeigen. Sei also $A \subseteq \CC$ ein Kreis. Dann ist $A$ die Lösungsmenge eine Gleichung
+Nach \hyperlink{beispieleinszweieins}{Beispiel 1.2.1} ist $\rho$ ein Homöomorphismus. Es ist also lediglich die Kreistreue zu zeigen. Sei also $A \subseteq \CC$ ein Kreis. Dann ist $A$ die Lösungsmenge einer Gleichung
 $$\alpha z \overline{z} + \beta z + \overline{\beta} \overline{z} + \gamma = 0, \qquad \alpha, \gamma \in \mathbb{R}, \ \beta \in \C.$$
 Betrachte nun zwei Fälle:
 \begin{compactenum}
@@ -496,7 +496,7 @@ Die Menge $\mob$ ist \textit{einfach $3$-Punkt transitiv}, das heißt für zwei 
 
 
 \begin{pr}
-wir zeigen zunächst die Eindeutigkeit einer solchen Möbiustransformation. Seien also $m_1, m_2 \in \mob$ mit $m_1(z_i) = w_i = m_2(z_i)$ für $i \in \{1,2,3\}$. Setze $m:= m_1^{-1} \circ m_2$. Dann ist $m$ ebenfalls eine Möbiustransformation und es gilt $m(z_i) = z_i$ für $i \in \{1,2,3\}$, nach dem vorangegangenen Satz ist $m$ also die Identität, woraus $m_1 = m_2$ folgt.\\
+Wir zeigen zunächst die Eindeutigkeit einer solchen Möbiustransformation. Seien also $m_1, m_2 \in \mob$ mit $m_1(z_i) = w_i = m_2(z_i)$ für $i \in \{1,2,3\}$. Setze $m:= m_1^{-1} \circ m_2$. Dann ist $m$ ebenfalls eine Möbiustransformation und es gilt $m(z_i) = z_i$ für $i \in \{1,2,3\}$, nach dem vorangegangenen Satz ist $m$ also die Identität, woraus $m_1 = m_2$ folgt.\\
 Zur Existenz. Es genügt zu zeigen, dass es für jedes Tripel $(z_1, z_2, z_3)$ von paarweise verschiedenen Punkten in $\CC$ eine Möbiustransformation $m_z \in \mob$ gibt, welche dieses auf $(0,1,\infty)$ abbildet. Durch $m:= m_w^{-1} \circ m_z$ erhalten wir die gwünschte Möbiustransformation. Seien also $z_1, z_2, z_3 \in \CC$ paarweise verschieden. Wir unterscheiden zwei Fälle.
 \begin{compactenum}
 \item[\textbf{Fall (a)}] Seien $z_1, z_2, z_3 \in \C$. Mit dem Ansatz $m(z) = \frac{az+b}{cz+d}$ und 
@@ -558,7 +558,7 @@ Eine \textit{Scheibe} $D$ in $\CC$ ist eine Zusammenhangskomponente von $\CC \se
 \begin{theorem}   %%Satz 1.8
 $\mob$ operiert transitiv auf der Menge $\mathcal{S}$ der Scheiben in $\CC$.
 \begin{pr}
-Seien $D=D_+,E=E_+ \in \mathcal{S}$ Scheiben in $\CC$ und $\partial D = A$, $\partial E = B$ die Randkreise. weitere seien $D_- := \CC \setminus \{A, D\}$ sowie $E_- := \CC \setminus \{B, E\}$. Nach Satz 3.6 existiert $m \in \mob$ mit $B=m(A)$. wegen der Stetigkeit von $m$ und der Kreistreue gilt nun bereits $m(D) \in \{E_+,E_-\}$. Ist $m(D) = E$, so sind wir fertig. Andernfalls benötigen wir noch eine Möbiustransformation, die $E_+$ und $E_-$ vertauscht und $B$ auf sich selbst abbildet. Betrachte dazu den speziellen Kreis $K= \mathbb{R} \cup \infty= \overline{\mathbb{R}}$. Dann gilt für
+Seien $D=D_+,E=E_+ \in \mathcal{S}$ Scheiben in $\CC$ und $\partial D = A$, $\partial E = B$ die Randkreise. weitere seien $D_- := \CC \setminus \{A, D\}$ sowie $E_- := \CC \setminus \{B, E\}$. Nach Satz 3.6 existiert $m \in \mob$ mit $B=m(A)$. Wegen der Stetigkeit von $m$ und der Kreistreue gilt nun bereits $m(D) \in \{E_+,E_-\}$. Ist $m(D) = E$, so sind wir fertig. Andernfalls benötigen wir noch eine Möbiustransformation, die $E_+$ und $E_-$ vertauscht und $B$ auf sich selbst abbildet. Betrachte dazu den speziellen Kreis $K= \mathbb{R} \cup \infty= \overline{\mathbb{R}}$. Dann gilt für
 $$\mathcal{J}: \CC \la \CC, \qquad z \mapsto \begin{cases} \ 0, & \ \textrm{ falls } z = \infty \\ \ \frac{1}{z}, & \ \textrm{ falls } z \in \C \setminus \{0\}, \\ \ \infty, & \ \textrm{ falls } z=0 \end{cases}$$
 gerade $\mathcal{J}(K)=K$. Weiter ist $\mathcal{J}(i)=\frac{1}{i} = -i$ und da $\mathcal{J}$ ein Homöomorphismus ist, folgt $\mathcal{J}(\mathbb{H}^{+}) = \mathbb{H}^-$ und $\mathcal{J}(\mathbb{H}^{-})= \mathbb{H}^{+}$. Sei nun $K_1$ ein beliebiger Kreis in $\CC$ und $n \in \mob$ mit $n(A)=K$ (eine solche Möbiustransformation existiert nach Satz 3.6). Dann gilt für $M:= n^{-1}\circ \mathcal{J} \circ n$:
 $$M(A) = (n^{-1}\circ \mathcal{J} \circ n)(A) = n^{-1}(\mathcal{J}(K)) = n^{-1}(K) = A$$
@@ -707,7 +707,7 @@ Wir wollen nun eine umfassendere Gruppe von kreistreuen Homöomorphismen in $\CC
 \begin{proposition}    %%Proposition 1.12
 Die komplexe Konjugation
 $$C: \CC \la \CC, \qquad z=x+iy\ \mapsto \ \begin{cases} \ \overline{z} = x-iy, & \ \textrm{ falls } z \neq \infty \\ \ \infty, & \ \textrm{ falls } z= \infty \end{cases}$$
-ist ein kreistreuer homöomorphismus, aber keine Möbiustransformation, das heißt es gilt $C \in \homoekcc \setminus \mob$. 
+ist ein kreistreuer Homöomorphismus, aber keine Möbiustransformation, das heißt es gilt $C \in \homoekcc \setminus \mob$. 
 \begin{pr}
 Wir zeigen zu erst, dass $C \in \homoekcc$. Sicherlich ist $C$ ein Homöomorphismus, denn wegen $C^{-1}=C$ ist $C$ bijektiv und $C(U_{\epsilon}(z)) = U_{\epsilon}(C(z))$ liefert die Stetigkeit von $C$ und $C^{-1}$. Wir müssen noch die Kreistreue zeigen. Dazu genügt es, dass Kreisgleichungen unter $C$ wieder auf Kreisgleichungen abgebildet werden. Sei also durch $X:\alpha z \overline{z} + \beta z + \overline{\beta} \overline{z} + \gamma =0$ ein Kreis gegeben. Dann gilt 
 $$C(X): \alpha \overline{z} z + \overline{\beta} z + \beta \overline{z} + \gamma=0,$$
@@ -733,7 +733,7 @@ mit $n \in \mathbb{N}$ und $m_i \in \mob$ oder $m_i =C$.
 \begin{theorem}   %%Satz 1.13
 Es gilt $\amob \subseteq \homoekcc$.
 \begin{pr}
-Da $C \in \homoekcc$ nach \hyperlink{propeinssechseins}{Proposition 1.6.1} und $\mob \subseteq \homoekcc$ nach \hyperlink{satzeinszweiacht}{Satz 1.2.8} ist jede Komposition aus $C$ und $m_i \in \mob$ ebenfalls in $\homoekcc$, also $\amob \subseteq \homoekcc$. $\hfill \Box$
+Da $C \in \homoekcc$ nach \hyperlink{propeinssechseins}{Proposition 1.6.1} und $\mob \subseteq \homoekcc$ nach \hyperlink{satzeinszweiacht}{Satz 1.2.8} ist jede Komposition aus $C$ und $m_i \in \mob$ ebenfalls in $\homoekcc$ enthalten, also $\amob \subseteq \homoekcc$. $\hfill \Box$
 \end{pr}
 
 \end{theorem}
@@ -787,7 +787,7 @@ Jede Möbiustransformation $m \in \mob$ kann als Verknüpfung von endlich vielen
 \newpage
 
 
-\section{$\mathbb{H}$-invariante Möbiustransformationen} %% 1.7 H-oinvariante Möbiustransformationen
+\section{$\mathbb{H}$-invariante Möbiustransformationen} %% 1.7 H-invariante Möbiustransformationen
 
 
 
@@ -891,7 +891,7 @@ $$\amobh \cong \mathrm{PSL}_2(\R) \cup \left(\mathrm{PSL}_2(\mathbb{R}) \circ \s
 
 \begin{pr}
 Wir zeigen, dass die beiden Typen (1) und (2) aus \hyperlink{satzeinssiebendrei}{Satz 1.7.3} jeweils einer Komponente der rechten Seite der Behauptung entspricht.\\
-Wir haben bereits in \hyperlink{propeinsfunfeins}{Proposition 1.5.1} gesehen, dass $\mob \cong \mathrm{PGL}_2(\C)$ gilt. Die Normalisierung $ad-bc=1$ gibt uns Determinante $1$ der Matrizen und reelle Koeffizienten implizieren auch reelle Matrixeinträge. Insgesamt folgt daraus
+Wir haben bereits in \hyperlink{propeinsfunfeins}{Proposition 1.5.1} gesehen, dass $\mob \cong \mathrm{PGL}_2(\C)$ gilt. Die Normierung $ad-bc=1$ gibt uns Determinante $1$ der Matrizen und reelle Koeffizienten implizieren auch reelle Matrixeinträge. Insgesamt folgt daraus
 $$\amobh \vert_{\mathrm{Typ\ (1)}} \cong \mathrm{PSL}_2(\R).$$
 
 Betrachte nun die From (2) in \hyperlink{satzeinssiebendrei}{Satz 1.7.3} und schreibe $a= \alpha i$, $b= \beta i$, $c= \gamma i$, $d = \delta i$ mit $\alpha, \beta, \gamma, \delta \in \R$. Dann gilt $\alpha \delta - \beta \gamma = \frac{1}{i^2} (ad-bc) = -1$. Ist nun $\sigma (z) := -C(z)$ die Spiegelung an der imaginären Achse, so ist $\sigma \in \amobh$. (2) wird dann zu 
@@ -1219,7 +1219,7 @@ $$L_h(\gamma) := \int_a^b \frac{\Vert \gamma'(t) \Vert_e}{ \mathrm{Im}(\gamma(t)
 
 \hypertarget{lemmazweidreizwei}{}
 \begin{lemma}    %%Lemma 2.9
-Die hyperbolische Länge eine differenzierbaren Kurve $z$ in $\He^2$ is invariant unter Möbiustransformationen von $\amob(\He^2)$. Insbesondere gilt für alle $A\in \mathrm{SL}_2(\R)$ also $L_h(T_A \circ z) = L_h(z)$.
+Die hyperbolische Länge eine differenzierbaren Kurve $z$ in $\He^2$ ist invariant unter Möbiustransformationen von $\amob(\He^2)$. Insbesondere gilt für alle $A\in \mathrm{SL}_2(\R)$ also $L_h(T_A \circ z) = L_h(z)$.
 \begin{pr}
 Nach obigen Formeln gilt für $A= \begin{pmatrix}a&b\\[-6pt] c&d\end{pmatrix} \in \mathrm{SL}_2(\R)$
 $$\frac{\Vert (T_A \circ \gamma)'(t)\Vert_e}{\mathrm{Im}( (T_A\circ \gamma)(t))} = \frac{\Vert w'(t)\Vert_e}{\mathrm{Im}(w(t))} =  \frac{ \Vert \gamma'(t) \Vert_e}{\Vert (c \gamma(t) +d)^2 \Vert_e} \ \frac{\vert c \gamma(t) + d \vert^2}{\mathrm{Im}(\gamma(t))} = \frac{\Vert \gamma'(t)\Vert_e}{\mathrm{Im}(\gamma(t))},$$
@@ -3921,7 +3921,7 @@ $$
 
 \end{tikzpicture}
 $$
-Dann ist $\Delta_1$ ein geodätisches Dreieck, dass die Seite $[p,q]$ enthält. Sei nun $x \in [p,q]=[c(0), c(1)]$. Da $X$ $\delta$-hyperbolisch ist, können wir $y_1 \in \left[c(0), c\left(\frac{1}{2}\right)\right] \cup \left[ c\left(\frac{1}{2}\right)\right]$ derart whälen, dass $d(x,y_1) \leqslant \delta$. Falls $y_1 \in \left[c(0), c\left(\frac{1}{2}\right)\right]$, betrachte ein weiteres Dreieck 
+Dann ist $\Delta_1$ ein geodätisches Dreieck, das die Seite $[p,q]$ enthält. Sei nun $x \in [p,q]=[c(0), c(1)]$. Da $X$ $\delta$-hyperbolisch ist, können wir $y_1 \in \left[c(0), c\left(\frac{1}{2}\right)\right] \cup \left[ c\left(\frac{1}{2}\right)\right]$ derart whälen, dass $d(x,y_1) \leqslant \delta$. Falls $y_1 \in \left[c(0), c\left(\frac{1}{2}\right)\right]$, betrachte ein weiteres Dreieck 
 $$\Delta_2 := \Delta \left( \left[c(0), c\left(\frac{1}{2}\right)\right], \left[ c(0), c\left(\frac{1}{4}\right)\right], \left[ c\left(\frac{1}{4}\right), c\left(\frac{1}{2}\right)\right] \right).$$
 Dann ist $\Delta_2$ ebenfalls ein geodätisches Dreieck und besitzt $\left[ c(0), c\left(\frac{1}{2}\right) \right]$ als gemeinsame Seite mit $\Delta_1$. Ist hingegen $y_1$ auf der anderen Seite, also $y_1 \in \left[ c\left(\frac{1}{2}\right)\right]$, so definiere $\Delta_2$ wie folgt:
 $$\Delta_2 := \Delta \left( \left[c\left(\frac{1}{2}\right), c\left(1\right)\right], \left[c\left(\frac{1}{2}\right), c\left(\frac{3}{4}\right)\right], \left[ c\left(\frac{3}{4}\right), c\left(1\right)\right] \right).$$
